@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\eunho\Desktop\TA-DS\Chap02_Array_Class\Chap02_Class_example\소스.cpp(12,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Chap02_Class_example.vcxproj -> C:\Users\eunho\Desktop\TA-DS\Chap02_Array_Class\x64\Debug\Chap02_Class_example.exe
